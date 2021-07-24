@@ -1,0 +1,6 @@
+# Folders
+.terraform/
+
+# Files
+terraform.tfstate*
+example.txt
